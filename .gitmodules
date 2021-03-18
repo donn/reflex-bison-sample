@@ -1,0 +1,3 @@
+[submodule "re-flex"]
+	path = re-flex
+	url = https://github.com/genivia/re-flex
